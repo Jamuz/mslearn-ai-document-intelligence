@@ -1,2 +1,8 @@
 bin
 obj
+
+mslearn-ai-document-intelligence.sln
+
+.vscode
+.venv
+.env

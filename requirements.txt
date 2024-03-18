@@ -1,0 +1,16 @@
+azure-ai-formrecognizer
+# documentintelligence -kirjasto on uudempi ja tukee uudempia Azure APIja, 
+# mutta tämä harjoitus käyttää formrecognizer-libraa
+# https://pypi.org/project/azure-ai-documentintelligence/
+# azure-ai-documentintelligence
+
+requests
+python-dotenv
+
+# Toistaiseksi tehty vasta ensimmäinen harjoitus.
+# Ilmeisesti muissa harjoituksissa tarvitaan näitä kirjastoja,
+# joten pidän ne tässä alla tulevaisuutta varten.
+# flask
+# pylint
+# matplotlib
+# pillow
